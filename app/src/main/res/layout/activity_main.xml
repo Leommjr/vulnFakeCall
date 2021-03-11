@@ -20,6 +20,7 @@
             android:layout_height="wrap_content"
             android:background="#FF0000"
             android:text="@string/bligar"
+            android:onClick="ligar"
             app:backgroundTint="#FF0000"
             app:icon="@android:drawable/ic_menu_call"
             app:layout_constraintBottom_toBottomOf="parent"
